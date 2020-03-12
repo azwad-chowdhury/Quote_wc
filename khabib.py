@@ -41,3 +41,4 @@ plt.imshow(khabib_wc, interpolation='bilinear')
 plt.axis('off')
 plt.savefig('khabib_wc.png',bbox_inches='tight',dpi = 1200)
 plt.show()
+
